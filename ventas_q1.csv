@@ -1,0 +1,11 @@
+id_venta,pais,unidades_vendidas,precio_unitario
+101,Argentina,15,120.50
+102,Chile,8,95.00
+103,Colombia,20,50.00
+104,Argentina,0,150.00
+105,Mexico,5,200.00
+106,Chile,12,110.00
+107,Argentina,5,130.00
+108,Peru,10,85.00
+109,Chile,0,95.00
+110,Argentina,22,115.00
