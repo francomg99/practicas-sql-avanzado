@@ -1,0 +1,8 @@
+id_pedido,cod_cliente,producto,cantidad,precio,estado
+1,101,Teclado,2,45.0,Entregado
+2,102,Raton,1,25.0,Entregado
+3,105,Monitor,1,250.0,Cancelado
+4,999,Cable USB,3,10.0,Entregado
+5,103,Auriculares,1,80.0,Entregado
+6,104,Raton,2,25.0,Entregado
+7,888,Funda PC,1,30.0,Entregado
